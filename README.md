@@ -2,9 +2,9 @@
 
 Fast Solver for the popular iMessage game WordHunt
 
-#What is Wordhunt?
+# What is Wordhunt?
 
-#How it Works:
+# How it Works:
 
-#How to Use: 
+# How to Use: 
 
