@@ -10,7 +10,7 @@ WordHunt is a game where players are presented with a 4x4 grid of letters and mu
 
 The solver is coded using HTML/CSS/JS for the frontend UI and Java (Spring Boot) for the backend.
 
-The backend implements a Trie data structure to store all valid words and utilize a depth first search (DFS) algorithm through the 4x4 grid of letters with a visited array to find all valid words within a board. 
+The backend implements a Trie data structure to store all valid words and utilizes a depth first search (DFS) algorithm through the 4x4 grid of letters with a visited array to find all valid words within a board. 
 
 The backend then pushes this data to the frontend through an array and the valid words are displayed on a grid to the user from longest to shortest for maximum points.
 
